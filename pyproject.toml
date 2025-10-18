@@ -1,0 +1,9 @@
+[project]
+name = "guia-prova-01-tpaa"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pylatex>=1.4.2",
+]
